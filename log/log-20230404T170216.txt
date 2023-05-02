@@ -1,0 +1,6 @@
+04.04-17:02 [main] INFO  c.h.m.service.user.UserServiceImpl - User not found. Please, try again
+04.04-17:02 [main] INFO  c.h.m.service.user.UserServiceImpl - User not found. Please, try again
+04.04-17:03 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: steeve
+04.04-17:05 [main] INFO  c.h.m.c.role.VisitorController - visitor steeve logged out
+04.04-17:05 [main] INFO  c.h.m.service.user.UserServiceImpl - admin andy logged in
+04.04-17:05 [main] INFO  c.h.m.c.role.AdminController - admin andy removed visitor steeve

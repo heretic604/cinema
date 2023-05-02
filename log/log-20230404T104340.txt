@@ -1,0 +1,10 @@
+04.04-10:44 [main] INFO  c.h.m.service.user.UserServiceImpl - User not found. Please, try again
+04.04-10:44 [main] INFO  c.h.m.controller.UserControllerImpl - registration failedThis username not available. Please choose another username.
+04.04-10:45 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: andy
+04.04-10:45 [main] INFO  c.h.m.c.role.VisitorController - visitor andy logged out
+04.04-10:46 [main] INFO  c.h.m.service.user.UserServiceImpl - visitor andy logged in
+04.04-10:46 [main] INFO  c.h.m.c.role.VisitorController - visitor andy changed his password
+04.04-10:46 [main] INFO  c.h.m.c.role.VisitorController - visitor andy logged out
+04.04-10:46 [main] INFO  c.h.m.service.user.UserServiceImpl - visitor andy logged in
+04.04-10:46 [main] INFO  c.h.m.c.role.VisitorController - visitor andy changed his password
+04.04-10:46 [main] INFO  c.h.m.c.role.VisitorController - visitor andy logged out

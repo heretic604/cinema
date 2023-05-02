@@ -1,0 +1,39 @@
+04.04-13:41 [main] INFO  c.h.m.service.user.UserServiceImpl - admin andy logged in
+04.04-13:41 [main] INFO  c.h.m.c.role.AdminController - admin andy failed user deletion
+04.04-13:41 [main] INFO  c.h.m.c.role.AdminController - admin andy removed manager jack
+04.04-13:41 [main] INFO  c.h.m.c.role.AdminController - admin andy removed visitor kate
+04.04-13:41 [main] INFO  c.h.m.c.role.AdminController - admin andy removed visitor lolly
+04.04-13:44 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: rowan
+04.04-13:45 [main] INFO  c.h.m.c.role.VisitorController - visitor rowan interested in Fight Club
+04.04-13:46 [main] INFO  c.h.m.c.role.VisitorController - visitor rowan bought ticket (id:562)
+04.04-13:47 [main] INFO  c.h.m.c.role.VisitorController - visitor rowan logged out
+04.04-13:47 [main] INFO  c.h.m.service.user.UserServiceImpl - visitor rowan logged in
+04.04-13:47 [main] INFO  c.h.m.c.role.VisitorController - visitor rowan logged out
+04.04-13:47 [main] INFO  c.h.m.service.user.UserServiceImpl - admin andy logged in
+04.04-13:48 [main] INFO  c.h.m.c.role.AdminController - admin andy changed rowan's role to manager
+04.04-13:48 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: jannie
+04.04-13:48 [main] INFO  c.h.m.c.role.VisitorController - visitor jannie logged out
+04.04-13:49 [main] INFO  c.h.m.service.user.UserServiceImpl - admin andy logged in
+04.04-13:49 [main] INFO  c.h.m.c.role.AdminController - admin andy changed jannie's role to manager
+04.04-13:50 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: jack
+04.04-13:50 [main] INFO  c.h.m.c.role.VisitorController - visitor jack logged out
+04.04-13:51 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: john
+04.04-13:51 [main] INFO  c.h.m.c.role.VisitorController - visitor john logged out
+04.04-13:52 [main] INFO  c.h.m.controller.UserControllerImpl - registration failedIncorrect email. Start registration from beginning
+04.04-13:52 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: jason
+04.04-13:52 [main] INFO  c.h.m.c.role.VisitorController - visitor jason logged out
+04.04-13:53 [main] INFO  c.h.m.service.user.UserServiceImpl - User not found. Please, try again
+04.04-13:54 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: lolly
+04.04-13:54 [main] INFO  c.h.m.c.role.VisitorController - visitor lolly logged out
+04.04-13:54 [main] INFO  c.h.m.service.user.UserServiceImpl - visitor lolly logged in
+04.04-13:54 [main] INFO  c.h.m.c.role.VisitorController - visitor lolly logged out
+04.04-13:57 [main] INFO  c.h.m.service.user.UserServiceImpl - User not found. Please, try again
+04.04-13:58 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: alan
+04.04-13:58 [main] INFO  c.h.m.c.role.VisitorController - visitor alan logged out
+04.04-13:59 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: katty
+04.04-13:59 [main] INFO  c.h.m.c.role.VisitorController - visitor katty logged out
+04.04-13:59 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: anna
+04.04-13:59 [main] INFO  c.h.m.c.role.VisitorController - visitor anna logged out
+04.04-14:00 [main] INFO  c.h.m.service.user.UserServiceImpl - admin andy logged in
+04.04-14:01 [main] INFO  c.h.m.c.role.AdminController - admin andy changed katty's status to blocked
+04.04-14:01 [main] INFO  c.h.m.c.role.AdminController - admin andy changed anna's status to blocked

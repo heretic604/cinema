@@ -1,0 +1,50 @@
+30.03-10:10 [main] INFO  c.h.m.service.user.UserServiceImpl - admin jane logged in
+30.03-10:15 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:583)
+30.03-10:19 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:571)
+30.03-10:19 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:610)
+30.03-10:20 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:655)
+30.03-10:20 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:694)
+30.03-10:20 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:680)
+30.03-10:22 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:729)
+30.03-10:22 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:730)
+30.03-10:23 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:783)
+30.03-10:23 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:784)
+30.03-10:24 [main] INFO  c.h.m.service.user.UserServiceImpl - admin jane logged in
+30.03-10:25 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:821)
+30.03-10:26 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:832)
+30.03-10:26 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:881)
+30.03-10:27 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:903)
+30.03-10:28 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:943)
+30.03-10:28 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:922)
+30.03-10:29 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:971)
+30.03-10:29 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:1004)
+30.03-10:30 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:1030)
+30.03-10:30 [main] INFO  c.h.m.c.role.VisitorController - admin jane bought ticket (id:1050)
+30.03-10:32 [main] INFO  c.h.m.c.role.AdminController - admin jane removed manager hash
+30.03-10:32 [main] INFO  c.h.m.c.role.AdminController - admin jane removed visitor test
+30.03-10:32 [main] INFO  c.h.m.c.role.AdminController - admin jane removed visitor test3
+30.03-10:32 [main] INFO  c.h.m.c.role.AdminController - admin jane removed visitor test2
+30.03-10:32 [main] INFO  c.h.m.c.role.AdminController - admin jane removed admin admin
+30.03-10:32 [main] INFO  c.h.m.c.role.AdminController - admin jane removed manager manager
+30.03-10:33 [main] INFO  c.h.m.c.role.AdminController - admin jane removed manager test1
+30.03-10:33 [main] INFO  c.h.m.c.role.AdminController - admin jane removed visitor test_user
+30.03-10:34 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: george
+30.03-10:34 [main] INFO  c.h.m.c.role.VisitorController - visitor george logged out
+30.03-10:34 [main] INFO  c.h.m.controller.UserControllerImpl - registration failedIncorrect email. Start registration from beginning
+30.03-10:35 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: lolly
+30.03-10:37 [main] INFO  c.h.m.c.role.VisitorController - visitor lolly changed his password
+30.03-10:37 [main] INFO  c.h.m.c.role.VisitorController - visitor lolly changed his email to lolly@gmail.com
+30.03-10:38 [main] INFO  c.h.m.c.role.VisitorController - visitor lolly tried unsuccessfully to buy a ticket
+30.03-10:39 [main] INFO  c.h.m.c.role.VisitorController - visitor lolly bought ticket (id:631)
+30.03-10:39 [main] INFO  c.h.m.c.role.VisitorController - visitor lolly bought ticket (id:635)
+30.03-10:40 [main] INFO  c.h.m.c.role.VisitorController - visitor lolly bought ticket (id:803)
+30.03-10:41 [main] INFO  c.h.m.c.role.VisitorController - visitor lolly bought ticket (id:793)
+30.03-10:41 [main] INFO  c.h.m.c.role.VisitorController - visitor lolly bought ticket (id:949)
+30.03-10:42 [main] INFO  c.h.m.c.role.VisitorController - visitor lolly bought ticket (id:950)
+30.03-10:44 [main] INFO  c.h.m.c.role.VisitorController - visitor lolly logged out
+30.03-10:44 [main] INFO  c.h.m.service.user.UserServiceImpl - admin jane logged in
+30.03-10:45 [main] INFO  c.h.m.c.role.AdminController - admin jane changed george's status to blocked
+30.03-10:46 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: kate
+30.03-10:46 [main] INFO  c.h.m.c.role.VisitorController - visitor kate logged out
+30.03-10:47 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: jack
+30.03-10:47 [main] INFO  c.h.m.c.role.VisitorController - visitor jack logged out

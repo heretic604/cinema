@@ -1,0 +1,11 @@
+07.04-17:14 [main] INFO  c.h.m.controller.UserControllerImpl - registration failed: Incorrect username. Please choose another username.
+07.04-17:14 [main] INFO  c.h.m.controller.UserControllerImpl - registration failed: This username not available. Please choose another username.
+07.04-17:14 [main] INFO  c.h.m.controller.UserControllerImpl - registration failed: Incorrect email. Start registration from beginning
+07.04-17:15 [main] INFO  c.h.m.controller.UserControllerImpl - new user registered: admin
+07.04-17:16 [main] INFO  c.h.m.c.role.VisitorController - visitor admin changed his email to admin@tesst.ru
+07.04-17:16 [main] INFO  c.h.m.c.role.VisitorController - visitor admin changed his email to test123@gmail.com
+07.04-17:17 [main] INFO  c.h.m.c.role.VisitorController - visitor admin tried unsuccessfully to buy a ticket
+07.04-17:17 [main] INFO  c.h.m.c.role.VisitorController - visitor admin logged out
+07.04-17:18 [main] INFO  c.h.m.service.user.UserServiceImpl - admin andy logged in
+07.04-17:19 [main] INFO  c.h.m.c.role.AdminController - admin andy failed user deletion
+07.04-17:20 [main] INFO  c.h.m.c.role.AdminController - admin andy removed visitor admin

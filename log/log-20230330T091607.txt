@@ -1,0 +1,12 @@
+30.03-09:16 [main] INFO  c.h.m.service.user.UserServiceImpl - admin jane logged in
+30.03-09:16 [main] INFO  c.h.m.c.role.AdminController - admin jane removed movie test from library
+30.03-09:16 [main] INFO  c.h.m.c.role.AdminController - admin jane removed movie m2 from library
+30.03-09:17 [main] INFO  c.h.m.c.role.AdminController - admin jane removed movie test2 from library
+30.03-09:17 [main] INFO  c.h.m.c.role.AdminController - admin jane removed movie test3 from library
+30.03-09:17 [main] INFO  c.h.m.c.role.AdminController - admin jane removed movie movie1 from library
+30.03-09:20 [main] WARN  c.h.m.r.movie.MovieRepositoryImpl - Data truncation: Data too long for column 'Description' at row 1
+30.03-09:21 [main] INFO  c.h.m.c.role.AdminController - admin jane added movie The Green Mile to library
+30.03-09:24 [main] INFO  c.h.m.c.role.AdminController - admin jane added movie Schindler's List to library
+30.03-09:24 [main] INFO  c.h.m.c.role.AdminController - admin jane removed movie Schindler's List from library
+30.03-09:27 [main] INFO  c.h.m.c.role.AdminController - admin jane added movie Schindler's List to library
+30.03-09:28 [main] WARN  c.h.m.r.movie.MovieRepositoryImpl - Data truncation: Data too long for column 'Name' at row 1

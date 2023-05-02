@@ -1,0 +1,2 @@
+04.04-16:58 [main] INFO  c.h.m.controller.UserControllerImpl - registration failed: null
+04.04-16:58 [main] INFO  c.h.m.controller.UserControllerImpl - registration failed: Incorrect username. Please choose another username.
